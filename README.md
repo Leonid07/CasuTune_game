@@ -1,10 +1,10 @@
 # CasuTune_game
 ![My Image](firstIteration.png)
 
-# Идея игры
+# Game Idea
 
-- Игра на пародии музыкальных плит
-- Магазин
-- Страница, где будет три баннера для получения дневного, недельного бонуса и бонус за просмотр рекламы (до 3-х раз)
-- В названии игры добавить буквы Casu
-- В стиле Casu
+- A parody of musical tiles game
+- Shop
+- A page where there will be three banners for receiving daily, weekly bonuses and a bonus for watching ads (up to 3 times)
+- Add the letters Casu to the game title
+- In the style of Casu
