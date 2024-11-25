@@ -1,3 +1,3 @@
 # CasuTune_game
-![Screenshot](Первая итерация.png)
+![First iteration](first iteration.png)
 Основной экран приложения демонстрирует главные функции.
